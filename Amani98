@@ -33,6 +33,7 @@ else {
 system.out.println("Your final bill is " +bill);
 
 ​​}
+HAJER
 
 ​}
 
