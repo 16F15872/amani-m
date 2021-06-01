@@ -1,0 +1,39 @@
+Import java. until*;
+
+Class shop {
+
+Public static void main (string [] arrgs ) {
+
+Scanner system sc = new scanner (system.in);
+
+System.out.printIn("Enter the item in the cart ;");
+
+Int (n = = 0) {
+
+System.out.ptintln (" Your  cart is empty ");
+
+}
+
+else {
+
+​int arr [] = new int [n];
+
+​int bill = 0;
+
+​system.out.printIn ("Enter price of each items in the cart");
+
+​for (int i=0;i<n;i++)
+
+​​arr[i] =sc.next int();
+
+​​biill += arr[i];
+
+}
+
+system.out.println("Your final bill is " +bill);
+
+​​}
+
+​}
+
+}
